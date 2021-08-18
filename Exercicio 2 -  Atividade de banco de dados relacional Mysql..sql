@@ -1,0 +1,1 @@
+select * from tb_comercio where valor > 30
